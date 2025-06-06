@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444236705143",
+    "project_id": "email-barky",
+    "storage_bucket": "email-barky.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444236705143:android:dc4b45cae67113d2fac572",
+        "android_client_info": {
+          "package_name": "com.JeffreyC.EmailBarky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444236705143-9ej1picsdgc64bsd9gplo0m942sf7dov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHiEcmmdQDEpXC_QDBqXOPIQ2a_3Aa_Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444236705143-9ej1picsdgc64bsd9gplo0m942sf7dov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
